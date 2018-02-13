@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # git clone git://github.com/awesome-print/awesome_print.git
 # gem 'awesome-print', :git => 'https://github.com/awesome-print/awesome_print'
 # gem 'awesome-print', :git => 'git@github.com:awesome-print/awesome_print.git'
-gem 'awesome-print', :git => 'git@github.com:awesome-print/awesome_print.git'
+gem 'awesome_print', :git => 'git@github.com:awesome-print/awesome_print.git'
 
 # gem 'awesome-print', :git => 'git@github.com/awesome-print/awesome_print.git'
 # source 'https://github.com/awesome-print/awesome_print'
