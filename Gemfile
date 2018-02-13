@@ -10,6 +10,7 @@ source 'https://rubygems.org'
 # gem 'awesome-print', :git => 'http://github.com/awesome-print/awesome_print.git'
 # gem 'awesome-print', :git => 'http://github.com/awesome-print/awesome_print.git'
 # gem 'awesome_print', :git => 'http://github.com/awesome-print/awesome_print.git'
+# gem 'awesome_print', git: => 'http://github.com/awesome-print/awesome_print.git'
 gem 'awesome_print', git: => 'http://github.com/awesome-print/awesome_print.git'
 
 gem 'hashie'
