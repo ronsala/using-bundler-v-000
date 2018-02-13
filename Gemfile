@@ -13,7 +13,7 @@ gem 'awesome-print', :git => 'git@github.com:awesome-print/awesome_print.git'
 # gem 'awesome-print', :git => 'http://github.com/awesome-print/awesome_print.git'
 # gem 'awesome_print', :git => 'http://github.com/awesome-print/awesome_print.git'
 # gem 'awesome_print', git: => 'http://github.com/awesome-print/awesome_print.git'
-gem 'awesome_print', git: 'http://github.com/awesome-print/awesome_print.git'
+# gem 'awesome_print', git: 'http://github.com/awesome-print/awesome_print.git' #works
 
 gem 'hashie'
 gem 'sinatra', '1.4.4'
